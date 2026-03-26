@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi 👋, I'm Raj Pandey
 
-<!--
-**rajpandey4706/rajpandey4706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate Java Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java, DSA & Web Development
+- 💬 Ask me about Java, OOPs, DBMS, HTML, CSS
+- 📫 How to reach me: rajpandey4706@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌐 Connect with me:
+
+- 💼 LinkedIn: https://www.linkedin.com/in/raj-pandey-a5a9223b1
+
+---
+
+🚀 Languages and Tools:
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=java,html,css,js,c,git,github" />
+</p>---
+
+📊 GitHub Stats:
+
+"Raj's GitHub stats" (https://github-readme-stats.vercel.app/api?username=rajpandey4706&show_icons=true&theme=radical)
+
+---
+
+🔥 Most Used Languages:
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=rajpandey4706&layout=compact&theme=radical)
+
+---
+
+🚀 Projects:
+
+- 🎮 Tic Tac Toe Game
+- 💻 (Add more projects soon...)
